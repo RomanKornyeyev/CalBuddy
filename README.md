@@ -9,17 +9,12 @@
     </a>
 </p>
 
-# Template de autentificación y configuración de perfil para Symfony MVC 
+# CalBuddy
 
 > ℹ️ Versión del proyecto:
-> - Symfony CLI: 5.16.1
-> - Symfony: 8.0.3
-> - PHP: 8.4.3
->
-> ℹ️ REQUISITOS MÍNIMOS
-> - Symfony CLI >= 5.10
-> - Symfony >= 7.0
-> - PHP >= 8.2
+> - Symfony CLI>= 5.16.1
+> - Symfony>= 8.0.3
+> - PHP>= 8.4.3
 
 ---
 
@@ -33,7 +28,7 @@ Aplicación web con un **sistema de autenticación completo**, incluyendo:
 ##### GESTIÓN DE PERFIL (DASHBOARD)
 ✅ **edición de datos**  
 ✅ **edición de password con throttling y confirmación por email**  
-⌛ **edición de email con confirmación por email**  
+✅ **edición de email con confirmación por email**  
 
 ##### INTERFAZ
 ✅ Interfaz sencilla con **Bootstrap**, 100% **responsive** y con **modo claro/oscuro automático**.
